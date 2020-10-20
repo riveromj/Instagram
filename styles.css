@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content{
+    width: 30%;
+    height: 70%;
+    background-color: #ffffff;
+    margin: auto;
+}
+/*la clase padre de los iconos y titulos superiores*/
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+p{
+    margin: 0px;
+    margin-left: 4%;
+    font-size: 12px;
+    
+}
+.fab{
+    font-size: 30px;
+}
+.fa-ellipsis-v{
+    text-align: right;
+    padding: 5%;
+}
+#html{
+    font-weight: bold;
+    font-size: 15px;
+}
+.html5{
+    display:flex;
+    padding: 2%;
+}     
+.paisaje{
+    width: 309px;
+    height: 180px;
+    padding: 0px;
+}
+.fa-bookmark{
+    margin-right: 5%;
+}
+/*la clase padre de los iconos inferiores*/
+.icono{
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+    padding-left: 4%;
+}
+.texto{
+    padding: 1%;
+    padding-bottom: 5%;
+}
+#lorem{
+    padding-top: 3%;
+}
