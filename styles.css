@@ -35,9 +35,11 @@ p{
     padding: 2%;
 }     
 .paisaje{
-    width: 309px;
-    height: 180px;
+   /* width: 170px;
+   // height: 180px;*/
     padding: 0px;
+    width: 100%;
+   
 }
 .fa-bookmark{
     margin-right: 5%;
